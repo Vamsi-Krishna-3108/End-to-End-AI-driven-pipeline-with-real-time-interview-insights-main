@@ -1,5 +1,5 @@
 # HR BOT
-
+Download Phase 2 and follow the procedure 
 An automated system to analyze resumes against job descriptions (JDs) and generate detailed reports, including scores, strengths, weaknesses, and analysis in both PDF and CSV formats. The outputs are zipped together for easy download.
 
 ## Features
